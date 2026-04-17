@@ -5,7 +5,7 @@
   "supported_items": "#minecraft:enchantable/sharp_weapon",
   "primary_items": "#minecraft:enchantable/melee_weapon",
   "weight": 10,
-  "max_level": 10,
+  "max_level": 12,
   "min_cost": {
     "base": 1,
     "per_level_above_first": 11
